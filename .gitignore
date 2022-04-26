@@ -1,0 +1,7 @@
+.cache
+.vscode
+.env
+dist
+zak-widget-dist
+node_modules
+.DS_Store
