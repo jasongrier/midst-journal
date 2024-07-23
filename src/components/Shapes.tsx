@@ -2,7 +2,7 @@ import React, { ReactElement, useEffect } from 'react'
 import $ from 'jquery'
 import { useLocation } from 'react-router'
 
-const staticAssetsUrl = process.env.STATIC_ASSETS_URL + 'midst-press/site/shapes/'
+const staticAssetsUrl = 'https://static.hem.rocks/midst-press/site/shapes/'
 
 interface IProps {
   location: any
@@ -69,10 +69,12 @@ function Shapes(): ReactElement {
       || pathname === '/read'
     ) {
       showShapes()
+      console.log(1)
     }
 
     else {
       hideShapes()
+      console.log(2)
     }
   })
 

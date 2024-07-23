@@ -56,8 +56,8 @@ function App(): ReactElement {
 
   return (
     <div className="hem-application">
+      <Shapes />
       <Routes>
-        <Route element={<Shapes />} />
 
         <Route
           path="/poem/:poemUrl"
