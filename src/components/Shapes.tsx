@@ -2,7 +2,7 @@ import React, { ReactElement, useEffect } from 'react'
 import $ from 'jquery'
 import { useLocation } from 'react-router'
 
-const staticAssetsUrl = 'https://static.hem.rocks/midst-press/site/shapes/'
+const staticAssetsUrl = 'https://d3nlqr52a31o6y.cloudfront.net/midst-press/site/shapes/'
 
 interface IProps {
   location: any

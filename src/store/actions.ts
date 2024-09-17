@@ -16,7 +16,7 @@ import {
   IPoem,
 } from './types'
 
-const staticAssetsUrl = 'https://static.hem.rocks/midst-press/authors/production/'
+const staticAssetsUrl = 'https://d3nlqr52a31o6y.cloudfront.net/midst-press/authors/production/'
 
 // TODO: Should be: ThunkResult<void>. Why doesn't it work?
 const loadPoemData = (poemIndex: number): any =>
