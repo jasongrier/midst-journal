@@ -2,6 +2,9 @@ const poems = [
   // require('./Nora_Claire_Miller_1'),
   // require('./Nora_Claire_Miller_2'),
   // require('./Nora_Claire_Miller_3'),
+  require('./Keetje_Kuipers'),
+  require('./Kelly_Schirmann'),
+  require('./Annelyse_Gelman'),
   require('./Franny_Choi'),
   require('./Jai_Hamid_Bashir'),
   require('./Matt_Nelson'),
@@ -46,7 +49,7 @@ const poems = [
   require('./Madeleine_Mori'),
   require('./Mia_You'),
   require('./Sarah_Matthes'),
-  require('./Annelyse_Gelman'),
+  // require('./Annelyse_Gelman'),
 ]
 
 export default poems
