@@ -21,6 +21,7 @@ function createPoem(data: any) {
   const url = data.title.toLowerCase()
     .replace(/ /g, '-')
     .replace(/\,/g, '')
+    .replace(/\//g, '')
     .replace('<i>', '')
     .replace('</i>', '')
     .replace('-:)', '')
@@ -32,7 +33,7 @@ function createPoem(data: any) {
     .replace(/-$/, '')
     .replace(/--/g, '-')
     .replace(/"/g, '')
-
+  
   const poem = {
     author: data.author,
     authorId,

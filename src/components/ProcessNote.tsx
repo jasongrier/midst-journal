@@ -9,7 +9,7 @@ interface IProps {
   match: any
 }
 
-const staticAssetsUrl = process.env.STATIC_ASSETS_URL + 'midst-press/authors/production/'
+const staticAssetsUrl = 'https://d3nlqr52a31o6y.cloudfront.net/midst-press/authors/production/'
 
 // TODO: How not to "freeze in" changing state values in event callbacks?
 let proxyProcessNoteOpen: boolean = false
