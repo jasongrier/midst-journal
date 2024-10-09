@@ -41,7 +41,7 @@ function About(): ReactElement {
 
         <h2>Contact</h2>
 
-        <p>👋: team@midst.press</p>
+        <p>👋: annelysegelman at gmail dot com</p>
         <p>
 
           <a
