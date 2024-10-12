@@ -2,6 +2,7 @@ const poems = [
   // require('./Nora_Claire_Miller_1'),
   // require('./Nora_Claire_Miller_2'),
   // require('./Nora_Claire_Miller_3'),
+  require('./Chessy_Normile'),  
   require('./Keetje_Kuipers'),
   require('./Kelly_Schirmann'),
   require('./Annelyse_Gelman'),

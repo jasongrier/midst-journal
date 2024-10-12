@@ -42,6 +42,7 @@ function About(): ReactElement {
         <h2>Contact</h2>
 
         <p>👋: annelysegelman at gmail dot com</p>
+        <br><br></br>Note: Our old email, team at midst.press, is currently not working—if you've reached out at this address, please contact Annelyse Gelman directly at the email above!</br>
         <p>
 
           <a
