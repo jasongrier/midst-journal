@@ -47,8 +47,17 @@ function Funding(): ReactElement {
             className="ko-fi-logo-in-text"
             href="https://ko-fi.com/midst"
           />
-          You can also give a Fee-free, one-time donation of any amount <a href="https://ko-fi.com/midst">here</a>.
+          You can also give a fee-free, one-time donation of any amount <a href="https://ko-fi.com/midst">here</a>.
         </p>
+
+        <p>
+          <a
+            className="racc-logo-in-text"
+            href="https://racc.org"
+          />
+          Thanks to the <a href="https://racc.org">Regional Arts and Culture Council</a> of Portland, Oregon, who awarded Midst a Make | Learn | Build Grant.
+        </p>
+
 
         {/*
           <h2 className="emoji-heading">🙌</h2>

@@ -12,7 +12,6 @@ const donorList = [
   'Sarah T. Jewell',
   'Patrycja Humienik',
   'Anonymous donors',
-  'Regional Arts and Culture Council of Portland, Oregon',
 ]
 
 const sampleList = [
