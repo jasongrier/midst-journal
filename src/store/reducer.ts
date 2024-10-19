@@ -29,6 +29,8 @@ function createPoem(data: any) {
     .replace('::}', '')
     .replace('{', '')
     .replace('}', '')
+    .replace('(', '')
+    .replace(')', '')
     .replace('#', '')
     .replace(/-$/, '')
     .replace(/--/g, '-')
