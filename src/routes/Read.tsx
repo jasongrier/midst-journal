@@ -61,15 +61,13 @@ function Read(): ReactElement {
             </div>
             <p> Dear friends,</p>
             <p> We're hard at work on refining Midst, with the goal of distributing the software freely to everyone who wants it as soon as possible. In the meantime, I hope you enjoy these new commissioned poems and their distinctive processes, unique to each poem as much as they are unique to each writer.</p>
-            <p>If you'd like to support the project, our <a href="https://midst.press/funding">funding</a> page is live now!</p>
+            <p>You can sign up for our (infrequent) newsletter at the bottom of Midst's homepage.</p>
             <p> Thank you, as always, for reading Midst—</p>
             
             <p>
-              🥳🥳🥳,
-            </p>
-            <p>
+            👻, <br />
               Annelyse<br />
-              February 2022
+              October 2024
             </p>
             {/*
               <p> Dear friends,</p>
